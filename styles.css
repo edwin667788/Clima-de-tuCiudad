@@ -1,0 +1,30 @@
+/* Fondo de página */
+body {
+  background-color: #ffecb3; /* Amarillo claro */
+}
+
+/* Encabezados */
+h1, h2 {
+  color: #ff6f61; /* Rojo anaranjado */
+}
+
+/* Botones */
+.button {
+  background-color: #4caf50; /* Verde */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Enlaces */
+a {
+  color: #009688; /* Verde azulado */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #ff4081; /* Rosa */
+}
